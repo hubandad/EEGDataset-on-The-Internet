@@ -1,4 +1,4 @@
-# Public EEG Dataset on the Internet [Unfiltered]
+# Public EEG Dataset
 
 This is a list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
 
@@ -157,4 +157,4 @@ This is a list of all public EEG-datasets. This list of EEG-resources is not exh
   
   
   
-  Latested update: 26th May 2021
+  Latested update: 23th Dec 2021
