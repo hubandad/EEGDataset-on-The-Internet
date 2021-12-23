@@ -1,4 +1,4 @@
-# Public EEG Dataset
+# Public EEG Dataset on the Internet (From Internet)
 
 This is a list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
 
